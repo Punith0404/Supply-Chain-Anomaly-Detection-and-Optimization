@@ -4,8 +4,12 @@
 This project analyzes supply chain performance to identify operational inefficiencies such as **late deliveries, SLA breaches, and loss-making orders**.
 
 Using a structured SQL-based data model and an interactive Power BI dashboard, the project highlights **where and why the supply chain breaks**, enabling data-driven optimization of shipping modes, SLAs, and pricing strategies.
+## Technical Stack
 
-(Detailed technical stack and architecture will be added.)
+Detailed information about the tools, data modeling approach, and architecture used in this project can be found here:
+
+➡️ [Technical Stack & Architecture](Technical_Stack.md)
+
 
 ---
 
@@ -13,7 +17,7 @@ Using a structured SQL-based data model and an interactive Power BI dashboard, t
 The project follows a **star schema** design with a central fact table and supporting dimension tables.  
 All business logic is implemented in SQL views before visualization.
 
-(Data model diagram will be added.)
+![Supply Chain Dashboard](Data_Model.png)
 
 ---
 
