@@ -17,7 +17,7 @@ Detailed information about the tools, data modeling approach, and architecture u
 The project follows a **star schema** design with a central fact table and supporting dimension tables.  
 All business logic is implemented in SQL views before visualization.
 
-![Supply Chain Dashboard](Data Model.png)
+![Supply Chain Dashboard](Data_Model.png)
 
 ---
 
