@@ -58,7 +58,7 @@ The analysis indicates that meaningful improvement requires focused action on **
 ## Dashboard Overview
 The dashboard provides a high-level view of supply chain performance, highlighting late deliveries, SLA breaches, and loss-making orders across time, geography, shipping modes, and product categories.
 
-![Supply Chain Dashboard](PowerBI/Dashboard.png)
+![Supply Chain Dashboard](Supply_chain_Dashboard/Dashboard.png)
 
 ---
 
